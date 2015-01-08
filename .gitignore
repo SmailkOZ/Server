@@ -1,0 +1,22 @@
+# World files
+/logs
+/world
+/world_nether
+/world_the_end
+ 
+# Binary files
+ 
+# Other
+*.lck
+ 
+##########################
+# Plugin Specific
+##########################
+ 
+# CommandBook
+/plugins/CommandBook/sessions
+ 
+# dynmap
+/plugins/dynmap/web/tiles
+/plugins/dynmap/*.pending
+/plugins/dynmap/markers
