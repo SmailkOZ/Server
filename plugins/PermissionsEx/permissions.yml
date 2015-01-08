@@ -1,0 +1,19 @@
+groups: 
+   default: 
+       default: true 
+       permissions: 
+       — modifyworld.*
+   Admins: 
+       default: false 
+       inheritance: 
+       — default
+       permissions: 
+       — '*'
+users: 
+   Cufee: 
+       group: 
+       — Admins 
+       options: 
+           rank: '1' 
+       permissions:
+schema-version: 1

@@ -1,0 +1,182 @@
+[17:41:19] [main/INFO] [FML/]: Forge Mod Loader version 7.10.85.1240 for Minecraft 1.7.10 loading
+[17:41:20] [main/INFO] [FML/]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_25, running on Windows 8.1:amd64:6.3, installed at C:\Program Files\Java\jre1.8.0_25
+[17:41:20] [main/INFO] [FML/]: Loading tweaker net.minecraftforge.lex.legacyjavafixer.LegacyJavaFixer from LegacyJavaFixer-1.0.jar
+[17:41:20] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[17:41:20] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.lex.legacyjavafixer.LegacyJavaFixer
+[17:41:20] [main/INFO] [FML/]: [LegacyJavaFixer] Tweaker: cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker@43bc63a3
+[17:41:20] [main/INFO] [FML/]: [LegacyJavaFixer] Replacing tweaker cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker@43bc63a3 with net.minecraftforge.lex.legacyjavafixer.LegacyJavaFixer$SortReplacement@702657cc
+[17:41:20] [main/INFO] [FML/]: [LegacyJavaFixer] Tweaker: FMLCorePlugin {[]}
+[17:41:20] [main/INFO] [FML/]: [LegacyJavaFixer] Tweaker: FMLForgePlugin {[]}
+[17:41:20] [main/INFO] [FML/]: [LegacyJavaFixer] Tweaker: cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker@43bc63a3
+[17:41:20] [main/INFO] [FML/]: [LegacyJavaFixer] Replacing tweaker cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker@43bc63a3 with net.minecraftforge.lex.legacyjavafixer.LegacyJavaFixer$SortReplacement@702657cc
+[17:41:20] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[17:41:20] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.lex.legacyjavafixer.LegacyJavaFixer$SortReplacement
+[17:41:20] [main/INFO] [FML/]: [LegacyJavaFixer] Replacing sort
+[17:41:20] [main/INFO] [FML/]: [LegacyJavaFixer] Detected TerminalTweaker
+[17:41:20] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.lex.legacyjavafixer.LegacyJavaFixer$SortReplacement
+[17:41:20] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.lex.legacyjavafixer.LegacyJavaFixer
+[17:41:20] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:41:21] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:41:21] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[17:41:22] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.TerminalTweaker
+[17:41:22] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.TerminalTweaker
+[17:41:22] [main/INFO] [LaunchWrapper/]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[17:41:27] [Server thread/INFO] [MinecraftForge/]: Attempting early MinecraftForge initialization
+[17:41:27] [Server thread/INFO] [FML/]: MinecraftForge v10.13.2.1240 Initialized
+[17:41:27] [Server thread/INFO] [FML/]: Replaced 182 ore recipies
+[17:41:27] [Server thread/INFO] [MinecraftForge/]: Completed early MinecraftForge initialization
+[17:41:27] [Server thread/INFO] [FML/]: Searching C:\Users\TheVovk0\Documents\GitHub\Server\mods for mods
+[17:41:27] [Server thread/INFO] [FML/]: Forge Mod Loader has identified 3 mods to load
+[17:41:27] [Server thread/INFO] [FML/FML]: Attempting connection with missing mods [mcp, FML, Forge] at CLIENT
+[17:41:27] [Server thread/INFO] [FML/FML]: Attempting connection with missing mods [mcp, FML, Forge] at SERVER
+[17:41:28] [Server thread/INFO] [FML/]: Processing ObjectHolder annotations
+[17:41:28] [Server thread/INFO] [FML/]: Found 341 ObjectHolder annotations
+[17:41:28] [Server thread/INFO] [FML/Forge]: Configured a dormant chunk cache size of 0
+[17:41:28] [Server thread/INFO] [FML/]: Applying holder lookups
+[17:41:28] [Server thread/INFO] [FML/]: Holder lookups applied
+[17:41:28] [Server thread/INFO] [Minecraft/]: This server is running Cauldron-MCPC-Plus version git-Cauldron-MCPC-Plus-1.7.10-1.1236.06.212 (MC: 1.7.10) (Implementing API version 1.7.10-R0.1-SNAPSHOT)
+[17:41:28] [Server thread/INFO] [Minecraft/]: Using 4 threads for Netty based IO
+[17:41:28] [Server thread/INFO] [/]: Server Ping Player Sample Count: 12
+[17:41:29] [Server thread/INFO] [FML/]: Forge Mod Loader has successfully loaded 3 mods
+[17:41:29] [Server thread/INFO] [FML/]: Injecting existing block and item data into this server instance
+[17:41:29] [Server thread/INFO] [FML/]: Applying holder lookups
+[17:41:29] [Server thread/INFO] [FML/]: Holder lookups applied
+[17:41:29] [Server thread/INFO] [/]: Mapping loaded 11 packages, 7841 classes, 26711 fields, 53884 methods, flags 1ffa
+[17:41:29] [Server thread/INFO] [/]: Loaded inheritance map of 895 classes
+[17:41:30] [Server thread/INFO] [ru.tehkode.permissions.bukkit.PermissionsEx/]: [PermissionsEx] Loading PermissionsEx v1.22.6
+[17:41:30] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit] Loading WorldEdit v6.0;3342-78f975b9
+[17:41:30] [Server thread/INFO] [com.sk89q.worldguard.bukkit.WorldGuardPlugin/]: [WorldGuard] Loading WorldGuard v6.0.0-beta-03.1514-
+[17:41:30] [Server thread/INFO] [FML/]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@3fffca5a)
+[17:41:30] [Server thread/INFO] [FML/]: Loading dimension 1 (DIM1) (net.minecraft.server.dedicated.DedicatedServer@3fffca5a)
+[17:41:30] [Server thread/INFO] [FML/]: Loading dimension -1 (DIM-1) (net.minecraft.server.dedicated.DedicatedServer@3fffca5a)
+[17:41:32] [Server thread/INFO] [ru.tehkode.permissions.bukkit.PermissionsEx/]: [PermissionsEx] Enabling PermissionsEx v1.22.6
+[17:41:32] [Server thread/INFO] [ru.tehkode.permissions.bukkit.PermissionsEx/]: [PermissionsEx] Initializing file backend
+[17:41:32] [Server thread/ERROR] [ru.tehkode.permissions.bukkit.PermissionsEx/]: [PermissionsEx] 
+========== UNABLE TO LOAD PERMISSIONS BACKEND =========
+Your configuration must be fixed before PEX will enable
+Details: Error loading permissions file!
+=======================================================
+ru.tehkode.permissions.exceptions.PermissionBackendException: Error loading permissions file!
+	at ru.tehkode.permissions.backends.file.FileBackend.reload(FileBackend.java:321) ~[PermissionsEx.jar:?]
+	at ru.tehkode.permissions.backends.file.FileBackend.<init>(FileBackend.java:120) ~[PermissionsEx.jar:?]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_25]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_25]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_25]
+	at java.lang.reflect.Constructor.newInstance(Unknown Source) ~[?:1.8.0_25]
+	at ru.tehkode.permissions.backends.PermissionBackend.getBackend(PermissionBackend.java:392) ~[PermissionsEx.jar:?]
+	at ru.tehkode.permissions.backends.PermissionBackend.getBackend(PermissionBackend.java:367) ~[PermissionsEx.jar:?]
+	at ru.tehkode.permissions.PermissionManager.createBackend(PermissionManager.java:624) ~[PermissionsEx.jar:?]
+	at ru.tehkode.permissions.PermissionManager.setBackend(PermissionManager.java:606) ~[PermissionsEx.jar:?]
+	at ru.tehkode.permissions.PermissionManager.initBackend(PermissionManager.java:693) ~[PermissionsEx.jar:?]
+	at ru.tehkode.permissions.PermissionManager.<init>(PermissionManager.java:67) ~[PermissionsEx.jar:?]
+	at ru.tehkode.permissions.bukkit.PermissionsEx.onEnable(PermissionsEx.java:164) [PermissionsEx.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:316) [JavaPlugin.class:git-Cauldron-MCPC-Plus-1.7.10-1.1236.06.212]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:368) [JavaPluginLoader.class:git-Cauldron-MCPC-Plus-1.7.10-1.1236.06.212]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:410) [SimplePluginManager.class:git-Cauldron-MCPC-Plus-1.7.10-1.1236.06.212]
+	at org.bukkit.craftbukkit.v1_7_R4.CraftServer.loadPlugin(CraftServer.java:415) [CraftServer.class:git-Cauldron-MCPC-Plus-1.7.10-1.1236.06.212]
+	at org.bukkit.craftbukkit.v1_7_R4.CraftServer.enablePlugins(CraftServer.java:349) [CraftServer.class:git-Cauldron-MCPC-Plus-1.7.10-1.1236.06.212]
+	at net.minecraft.server.MinecraftServer.func_71243_i(MinecraftServer.java:500) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71222_d(MinecraftServer.java:474) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:434) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:329) [lt.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:620) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_25]
+Caused by: org.bukkit.configuration.InvalidConfigurationException: while scanning a simple key
+ in "<string>", line 5, column 8:
+           — modifyworld.*
+           ^
+could not found expected ':'
+ in "<string>", line 6, column 4:
+       Admins: 
+       ^
+
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:57) ~[YamlConfiguration.class:git-Cauldron-MCPC-Plus-1.7.10-1.1236.06.212]
+	at ru.tehkode.permissions.backends.file.FileConfig.loadFromString(FileConfig.java:68) ~[PermissionsEx.jar:?]
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:226) ~[FileConfiguration.class:git-Cauldron-MCPC-Plus-1.7.10-1.1236.06.212]
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:169) ~[FileConfiguration.class:git-Cauldron-MCPC-Plus-1.7.10-1.1236.06.212]
+	at ru.tehkode.permissions.backends.file.FileConfig.load(FileConfig.java:38) ~[PermissionsEx.jar:?]
+	at ru.tehkode.permissions.backends.file.FileBackend.reload(FileBackend.java:309) ~[PermissionsEx.jar:?]
+	... 23 more
+Caused by: org.yaml.snakeyaml.scanner.ScannerException: while scanning a simple key; could not found expected ':'
+	at org.yaml.snakeyaml.scanner.ScannerImpl.stalePossibleSimpleKeys(ScannerImpl.java:398) ~[ScannerImpl.class:?]
+	at org.yaml.snakeyaml.scanner.ScannerImpl.needMoreTokens(ScannerImpl.java:229) ~[ScannerImpl.class:?]
+	at org.yaml.snakeyaml.scanner.ScannerImpl.checkToken(ScannerImpl.java:178) ~[ScannerImpl.class:?]
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingValue.produce(ParserImpl.java:591) ~[ParserImpl$ParseBlockMappingValue.class:?]
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:161) ~[ParserImpl.class:?]
+	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:146) ~[ParserImpl.class:?]
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:133) ~[Composer.class:?]
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:237) ~[Composer.class:?]
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:160) ~[Composer.class:?]
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:237) ~[Composer.class:?]
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:160) ~[Composer.class:?]
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:237) ~[Composer.class:?]
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:160) ~[Composer.class:?]
+	at org.yaml.snakeyaml.composer.Composer.composeDocument(Composer.java:123) ~[Composer.class:?]
+	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:106) ~[Composer.class:?]
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:121) ~[BaseConstructor.class:?]
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:480) ~[Yaml.class:?]
+	at org.yaml.snakeyaml.Yaml.load(Yaml.java:399) ~[Yaml.class:?]
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:55) ~[YamlConfiguration.class:git-Cauldron-MCPC-Plus-1.7.10-1.1236.06.212]
+	at ru.tehkode.permissions.backends.file.FileConfig.loadFromString(FileConfig.java:68) ~[PermissionsEx.jar:?]
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:226) ~[FileConfiguration.class:git-Cauldron-MCPC-Plus-1.7.10-1.1236.06.212]
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:169) ~[FileConfiguration.class:git-Cauldron-MCPC-Plus-1.7.10-1.1236.06.212]
+	at ru.tehkode.permissions.backends.file.FileConfig.load(FileConfig.java:38) ~[PermissionsEx.jar:?]
+	at ru.tehkode.permissions.backends.file.FileBackend.reload(FileBackend.java:309) ~[PermissionsEx.jar:?]
+	... 23 more
+[17:41:32] [Server thread/INFO] [ru.tehkode.permissions.bukkit.PermissionsEx/]: [PermissionsEx] Disabling PermissionsEx v1.22.6
+[17:41:32] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit] Enabling WorldEdit v6.0;3342-78f975b9
+[17:41:34] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit] Default configuration file written: config.yml
+[17:41:34] [Server thread/INFO] [com.sk89q.wepif.PermissionsResolverManager/]: WEPIF: Updated config file
+[17:41:34] [Server thread/INFO] [com.sk89q.wepif.PermissionsResolverManager/]: WEPIF: Using the Bukkit Permissions API.
+[17:41:34] [Server thread/WARN] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit] 
+**********************************************
+** This WorldEdit version does not fully support your version of Bukkit.
+**
+** When working with blocks or undoing, chests will be empty, signs
+** will be blank, and so on. There will be no support for entity
+** and biome-related functions.
+**
+** Please see http://wiki.sk89q.com/wiki/WorldEdit/Bukkit_adapters
+**********************************************
+
+[17:41:34] [Server thread/INFO] [com.sk89q.worldguard.bukkit.WorldGuardPlugin/]: [WorldGuard] Enabling WorldGuard v6.0.0-beta-03.1514-
+[17:41:34] [Server thread/INFO] [com.sk89q.worldguard.bukkit.WorldGuardPlugin/]: [WorldGuard] Default configuration file written: C:\Users\TheVovk0\Documents\GitHub\Server\plugins\WorldGuard\config.yml
+[17:41:34] [Server thread/INFO] [com.sk89q.worldguard.bukkit.WorldGuardPlugin/]: [WorldGuard] Default configuration file written: C:\Users\TheVovk0\Documents\GitHub\Server\plugins\WorldGuard\worlds\world\config.yml
+[17:41:34] [Server thread/INFO] [com.sk89q.worldguard.bukkit.WorldGuardPlugin/]: [WorldGuard] Default configuration file written: C:\Users\TheVovk0\Documents\GitHub\Server\plugins\WorldGuard\worlds\world\blacklist.txt
+[17:41:35] [Server thread/INFO] [com.sk89q.worldguard.bukkit.WorldConfiguration/]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[17:41:35] [Server thread/INFO] [com.sk89q.worldguard.bukkit.WorldConfiguration/]: [WorldGuard] (world) Lighters are PERMITTED.
+[17:41:35] [Server thread/INFO] [com.sk89q.worldguard.bukkit.WorldConfiguration/]: [WorldGuard] (world) Lava fire is blocked.
+[17:41:35] [Server thread/INFO] [com.sk89q.worldguard.bukkit.WorldConfiguration/]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[17:41:35] [Server thread/INFO] [com.sk89q.worldguard.bukkit.WorldConfiguration/]: [WorldGuard] Loaded configuration for world 'world'
+[17:41:35] [Server thread/INFO] [com.sk89q.worldguard.bukkit.WorldGuardPlugin/]: [WorldGuard] Default configuration file written: C:\Users\TheVovk0\Documents\GitHub\Server\plugins\WorldGuard\worlds\DIM1\config.yml
+[17:41:35] [Server thread/INFO] [com.sk89q.worldguard.bukkit.WorldGuardPlugin/]: [WorldGuard] Default configuration file written: C:\Users\TheVovk0\Documents\GitHub\Server\plugins\WorldGuard\worlds\DIM1\blacklist.txt
+[17:41:35] [Server thread/INFO] [com.sk89q.worldguard.bukkit.WorldConfiguration/]: [WorldGuard] (DIM1) TNT ignition is PERMITTED.
+[17:41:35] [Server thread/INFO] [com.sk89q.worldguard.bukkit.WorldConfiguration/]: [WorldGuard] (DIM1) Lighters are PERMITTED.
+[17:41:35] [Server thread/INFO] [com.sk89q.worldguard.bukkit.WorldConfiguration/]: [WorldGuard] (DIM1) Lava fire is blocked.
+[17:41:35] [Server thread/INFO] [com.sk89q.worldguard.bukkit.WorldConfiguration/]: [WorldGuard] (DIM1) Fire spread is UNRESTRICTED.
+[17:41:35] [Server thread/INFO] [com.sk89q.worldguard.bukkit.WorldConfiguration/]: [WorldGuard] Loaded configuration for world 'DIM1'
+[17:41:35] [Server thread/INFO] [com.sk89q.worldguard.bukkit.WorldGuardPlugin/]: [WorldGuard] Default configuration file written: C:\Users\TheVovk0\Documents\GitHub\Server\plugins\WorldGuard\worlds\DIM-1\config.yml
+[17:41:35] [Server thread/INFO] [com.sk89q.worldguard.bukkit.WorldGuardPlugin/]: [WorldGuard] Default configuration file written: C:\Users\TheVovk0\Documents\GitHub\Server\plugins\WorldGuard\worlds\DIM-1\blacklist.txt
+[17:41:35] [Server thread/INFO] [com.sk89q.worldguard.bukkit.WorldConfiguration/]: [WorldGuard] (DIM-1) TNT ignition is PERMITTED.
+[17:41:35] [Server thread/INFO] [com.sk89q.worldguard.bukkit.WorldConfiguration/]: [WorldGuard] (DIM-1) Lighters are PERMITTED.
+[17:41:35] [Server thread/INFO] [com.sk89q.worldguard.bukkit.WorldConfiguration/]: [WorldGuard] (DIM-1) Lava fire is blocked.
+[17:41:35] [Server thread/INFO] [com.sk89q.worldguard.bukkit.WorldConfiguration/]: [WorldGuard] (DIM-1) Fire spread is UNRESTRICTED.
+[17:41:35] [Server thread/INFO] [com.sk89q.worldguard.bukkit.WorldConfiguration/]: [WorldGuard] Loaded configuration for world 'DIM-1'
+[17:41:35] [Server thread/INFO] [com.sk89q.worldguard.bukkit.WorldGuardPlugin/]: [WorldGuard] Loading region data...
+[17:41:35] [Server thread/INFO] [com.sk89q.worldguard.bukkit.RegionContainer/]: [WorldGuard] Unloading and saving region data that is currently loaded...
+[17:41:35] [Server thread/INFO] [com.sk89q.worldguard.bukkit.RegionContainer/]: [WorldGuard] Loading region data for loaded worlds...
+[17:41:35] [Server thread/INFO] [com.sk89q.worldguard.bukkit.RegionContainer/]: [WorldGuard] Regions saved after UUID migration! This won't happen again unless you change the relevant configuration option in WorldGuard's config.
+[17:41:35] [Server thread/INFO] [Minecraft/]: Server permissions file permissions.yml is empty, ignoring it
+[17:42:05] [Netty IO #2/INFO] [FML/]: Client protocol version 1
+[17:42:05] [Netty IO #2/INFO] [FML/]: Client attempting to join with 3 mods : FML@7.10.85.1277,Forge@10.13.2.1277,mcp@9.05
+[17:42:05] [Netty IO #2/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[17:42:05] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[17:47:41] [Server thread/INFO] [/]: CONSOLE: Stopping the server..
+[17:47:41] [Server thread/INFO] [com.sk89q.worldguard.bukkit.WorldGuardPlugin/]: [WorldGuard] Disabling WorldGuard v6.0.0-beta-03.1514-
+[17:47:41] [Server thread/INFO] [com.sk89q.worldguard.bukkit.WorldGuardPlugin/]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[17:47:41] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit] Disabling WorldEdit v6.0;3342-78f975b9
+[17:47:41] [Server thread/INFO] [FML/]: Unloading dimension 0
+[17:47:41] [Server thread/INFO] [FML/]: Unloading dimension -1
+[17:47:41] [Server thread/INFO] [FML/]: Unloading dimension 1
+[17:47:41] [Server thread/INFO] [FML/]: Applying holder lookups
+[17:47:41] [Server thread/INFO] [FML/]: Holder lookups applied
