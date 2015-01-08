@@ -1,0 +1,130 @@
+[17:14:51] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLServerTweaker
+[17:14:51] [main/INFO]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLServerTweaker
+[17:14:51] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLServerTweaker
+[17:14:51] [main/INFO]: Forge Mod Loader version 7.10.85.1240 for Minecraft 1.7.10 loading
+[17:14:52] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_25, running on Windows 8.1:amd64:6.3, installed at C:\Program Files\Java\jre1.8.0_25
+[17:14:52] [main/INFO]: Loading tweaker net.minecraftforge.lex.legacyjavafixer.LegacyJavaFixer from LegacyJavaFixer-1.0.jar
+[17:14:52] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[17:14:52] [main/INFO]: Loading tweak class name net.minecraftforge.lex.legacyjavafixer.LegacyJavaFixer
+[17:14:52] [main/INFO]: [LegacyJavaFixer] Tweaker: cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker@22555ebf
+[17:14:52] [main/INFO]: [LegacyJavaFixer] Replacing tweaker cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker@22555ebf with net.minecraftforge.lex.legacyjavafixer.LegacyJavaFixer$SortReplacement@36ebc363
+[17:14:52] [main/INFO]: [LegacyJavaFixer] Tweaker: FMLCorePlugin {[]}
+[17:14:52] [main/INFO]: [LegacyJavaFixer] Tweaker: FMLForgePlugin {[]}
+[17:14:52] [main/INFO]: [LegacyJavaFixer] Tweaker: cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker@22555ebf
+[17:14:52] [main/INFO]: [LegacyJavaFixer] Replacing tweaker cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker@22555ebf with net.minecraftforge.lex.legacyjavafixer.LegacyJavaFixer$SortReplacement@36ebc363
+[17:14:52] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[17:14:52] [main/INFO]: Calling tweak class net.minecraftforge.lex.legacyjavafixer.LegacyJavaFixer$SortReplacement
+[17:14:52] [main/INFO]: [LegacyJavaFixer] Replacing sort
+[17:14:52] [main/INFO]: [LegacyJavaFixer] Detected TerminalTweaker
+[17:14:52] [main/INFO]: Calling tweak class net.minecraftforge.lex.legacyjavafixer.LegacyJavaFixer$SortReplacement
+[17:14:52] [main/INFO]: Calling tweak class net.minecraftforge.lex.legacyjavafixer.LegacyJavaFixer
+[17:14:52] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:14:53] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:14:53] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[17:14:54] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.TerminalTweaker
+[17:14:54] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.TerminalTweaker
+[17:14:54] [main/INFO]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[17:14:59] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[17:14:59] [Server thread/INFO]: Attempting early MinecraftForge initialization
+[17:14:59] [Server thread/INFO]: MinecraftForge v10.13.2.1240 Initialized
+[17:14:59] [Server thread/INFO]: Replaced 182 ore recipies
+[17:14:59] [Server thread/INFO]: Completed early MinecraftForge initialization
+[17:14:59] [Server thread/INFO]: Config directory created successfully
+[17:14:59] [Server thread/INFO]: Searching C:\Users\TheVovk0\Documents\GitHub\Server\mods for mods
+[17:14:59] [Server thread/INFO]: Forge Mod Loader has identified 3 mods to load
+[17:14:59] [Server thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge] at CLIENT
+[17:14:59] [Server thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge] at SERVER
+[17:15:00] [Server thread/INFO]: Processing ObjectHolder annotations
+[17:15:00] [Server thread/INFO]: Found 341 ObjectHolder annotations
+[17:15:00] [Server thread/INFO]: Configured a dormant chunk cache size of 0
+[17:15:00] [Server thread/INFO]: Applying holder lookups
+[17:15:00] [Server thread/INFO]: Holder lookups applied
+[17:15:00] [Server thread/INFO]: Loading properties
+[17:15:00] [Server thread/WARN]: server.properties does not exist
+[17:15:00] [Server thread/INFO]: Generating new properties file
+[17:15:00] [Server thread/INFO]: Default game type: SURVIVAL
+[17:15:00] [Server thread/INFO]: This server is running Cauldron-MCPC-Plus version git-Cauldron-MCPC-Plus-1.7.10-1.1236.06.212 (MC: 1.7.10) (Implementing API version 1.7.10-R0.1-SNAPSHOT)
+[17:15:00] [Server thread/WARN]: Failed to load user banlist: 
+java.io.FileNotFoundException: banned-players.json (Не удается найти указанный файл)
+	at java.io.FileInputStream.open(Native Method) ~[?:1.8.0_25]
+	at java.io.FileInputStream.<init>(Unknown Source) ~[?:1.8.0_25]
+	at com.google.common.io.Files.newReader(Files.java:86) ~[minecraft_server.1.7.10.jar:?]
+	at net.minecraft.server.management.UserList.func_152679_g(UserList.java:201) ~[om.class:?]
+	at net.minecraft.server.dedicated.DedicatedPlayerList.func_152620_y(SourceFile:99) [ls.class:?]
+	at net.minecraft.server.dedicated.DedicatedPlayerList.<init>(SourceFile:25) [ls.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:229) [lt.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:620) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_25]
+[17:15:00] [Server thread/WARN]: Failed to load ip banlist: 
+java.io.FileNotFoundException: banned-ips.json (Не удается найти указанный файл)
+	at java.io.FileInputStream.open(Native Method) ~[?:1.8.0_25]
+	at java.io.FileInputStream.<init>(Unknown Source) ~[?:1.8.0_25]
+	at com.google.common.io.Files.newReader(Files.java:86) ~[minecraft_server.1.7.10.jar:?]
+	at net.minecraft.server.management.UserList.func_152679_g(UserList.java:201) ~[om.class:?]
+	at net.minecraft.server.dedicated.DedicatedPlayerList.func_152619_x(SourceFile:91) [ls.class:?]
+	at net.minecraft.server.dedicated.DedicatedPlayerList.<init>(SourceFile:27) [ls.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:229) [lt.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:620) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_25]
+[17:15:00] [Server thread/WARN]: Failed to load operators list: 
+java.io.FileNotFoundException: ops.json (Не удается найти указанный файл)
+	at java.io.FileInputStream.open(Native Method) ~[?:1.8.0_25]
+	at java.io.FileInputStream.<init>(Unknown Source) ~[?:1.8.0_25]
+	at com.google.common.io.Files.newReader(Files.java:86) ~[minecraft_server.1.7.10.jar:?]
+	at net.minecraft.server.management.UserList.func_152679_g(UserList.java:201) ~[om.class:?]
+	at net.minecraft.server.dedicated.DedicatedPlayerList.func_72417_t(SourceFile:107) [ls.class:?]
+	at net.minecraft.server.dedicated.DedicatedPlayerList.<init>(SourceFile:29) [ls.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:229) [lt.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:620) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_25]
+[17:15:00] [Server thread/WARN]: Failed to load white-list: 
+java.io.FileNotFoundException: whitelist.json (Не удается найти указанный файл)
+	at java.io.FileInputStream.open(Native Method) ~[?:1.8.0_25]
+	at java.io.FileInputStream.<init>(Unknown Source) ~[?:1.8.0_25]
+	at com.google.common.io.Files.newReader(Files.java:86) ~[minecraft_server.1.7.10.jar:?]
+	at net.minecraft.server.management.UserList.func_152679_g(UserList.java:201) ~[om.class:?]
+	at net.minecraft.server.dedicated.DedicatedPlayerList.func_72418_v(SourceFile:123) [ls.class:?]
+	at net.minecraft.server.dedicated.DedicatedPlayerList.<init>(SourceFile:30) [ls.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:229) [lt.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:620) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_25]
+[17:15:00] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:15:00] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:15:00] [Server thread/INFO]: Generating keypair
+[17:15:00] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:15:01] [Server thread/INFO]: Forge Mod Loader has successfully loaded 3 mods
+[17:15:01] [Server thread/INFO]: Preparing level "world"
+[17:15:01] [Server thread/INFO]: Registered command debug with permission node vanilla.command.debug
+[17:15:01] [Server thread/INFO]: Registered command spreadplayers with permission node vanilla.command.spreadplayers
+[17:15:01] [Server thread/INFO]: Registered command playsound with permission node vanilla.command.playsound
+[17:15:01] [Server thread/INFO]: Registered command scoreboard with permission node vanilla.command.scoreboard
+[17:15:01] [Server thread/INFO]: Registered command achievement with permission node vanilla.command.achievement
+[17:15:01] [Server thread/INFO]: Registered command summon with permission node vanilla.command.summon
+[17:15:01] [Server thread/INFO]: Registered command setblock with permission node vanilla.command.setblock
+[17:15:01] [Server thread/INFO]: Registered command testforblock with permission node vanilla.command.testforblock
+[17:15:01] [Server thread/INFO]: Registered command tellraw with permission node vanilla.command.tellraw
+[17:15:01] [Server thread/INFO]: Registered command netstat with permission node vanilla.command.netstat
+[17:15:01] [Server thread/INFO]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@1248589c)
+[17:15:01] [Server thread/INFO]: Loading dimension 1 (DIM1) (net.minecraft.server.dedicated.DedicatedServer@1248589c)
+[17:15:01] [Server thread/INFO]: Loading dimension -1 (DIM-1) (net.minecraft.server.dedicated.DedicatedServer@1248589c)
+[17:15:01] [Server thread/INFO]: Preparing start region for level 0
+[17:15:02] [Server thread/INFO]: Preparing spawn area: 8%
+[17:15:03] [Server thread/INFO]: Preparing spawn area: 24%
+[17:15:04] [Server thread/INFO]: Preparing spawn area: 36%
+[17:15:05] [Server thread/INFO]: Preparing spawn area: 53%
+[17:15:06] [Server thread/INFO]: Preparing spawn area: 72%
+[17:15:07] [Server thread/INFO]: Preparing spawn area: 88%
+[17:15:08] [Server thread/INFO]: Done (7,581s)! For help, type "help" or "?"
+[17:15:08] [Server thread/INFO]: Registered command forge with permission node net.minecraftforge.server.command.ForgeCommand
+[17:18:06] [Server thread/INFO]: CONSOLE: Stopping the server..
+[17:18:06] [Server thread/INFO]: Stopping server
+[17:18:06] [Server thread/INFO]: Saving players
+[17:18:06] [Server thread/INFO]: Saving worlds
+[17:18:06] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[17:18:07] [Server thread/INFO]: Saving chunks for level 'DIM1'/The End
+[17:18:07] [Server thread/INFO]: Saving chunks for level 'DIM-1'/Nether
+[17:18:07] [Server thread/INFO]: Unloading dimension 0
+[17:18:07] [Server thread/INFO]: Unloading dimension -1
+[17:18:07] [Server thread/INFO]: Unloading dimension 1
+[17:18:07] [Server thread/INFO]: Applying holder lookups
+[17:18:07] [Server thread/INFO]: Holder lookups applied

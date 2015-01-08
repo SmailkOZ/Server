@@ -1,0 +1,50 @@
+[17:14:51] [main/INFO] [FML/]: Forge Mod Loader version 7.10.85.1240 for Minecraft 1.7.10 loading
+[17:14:52] [main/INFO] [FML/]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_25, running on Windows 8.1:amd64:6.3, installed at C:\Program Files\Java\jre1.8.0_25
+[17:14:52] [main/INFO] [FML/]: Loading tweaker net.minecraftforge.lex.legacyjavafixer.LegacyJavaFixer from LegacyJavaFixer-1.0.jar
+[17:14:52] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[17:14:52] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.lex.legacyjavafixer.LegacyJavaFixer
+[17:14:52] [main/INFO] [FML/]: [LegacyJavaFixer] Tweaker: cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker@22555ebf
+[17:14:52] [main/INFO] [FML/]: [LegacyJavaFixer] Replacing tweaker cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker@22555ebf with net.minecraftforge.lex.legacyjavafixer.LegacyJavaFixer$SortReplacement@36ebc363
+[17:14:52] [main/INFO] [FML/]: [LegacyJavaFixer] Tweaker: FMLCorePlugin {[]}
+[17:14:52] [main/INFO] [FML/]: [LegacyJavaFixer] Tweaker: FMLForgePlugin {[]}
+[17:14:52] [main/INFO] [FML/]: [LegacyJavaFixer] Tweaker: cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker@22555ebf
+[17:14:52] [main/INFO] [FML/]: [LegacyJavaFixer] Replacing tweaker cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker@22555ebf with net.minecraftforge.lex.legacyjavafixer.LegacyJavaFixer$SortReplacement@36ebc363
+[17:14:52] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[17:14:52] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.lex.legacyjavafixer.LegacyJavaFixer$SortReplacement
+[17:14:52] [main/INFO] [FML/]: [LegacyJavaFixer] Replacing sort
+[17:14:52] [main/INFO] [FML/]: [LegacyJavaFixer] Detected TerminalTweaker
+[17:14:52] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.lex.legacyjavafixer.LegacyJavaFixer$SortReplacement
+[17:14:52] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.lex.legacyjavafixer.LegacyJavaFixer
+[17:14:52] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:14:53] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:14:53] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[17:14:54] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.TerminalTweaker
+[17:14:54] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.TerminalTweaker
+[17:14:54] [main/INFO] [LaunchWrapper/]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[17:14:59] [Server thread/INFO] [MinecraftForge/]: Attempting early MinecraftForge initialization
+[17:14:59] [Server thread/INFO] [FML/]: MinecraftForge v10.13.2.1240 Initialized
+[17:14:59] [Server thread/INFO] [FML/]: Replaced 182 ore recipies
+[17:14:59] [Server thread/INFO] [MinecraftForge/]: Completed early MinecraftForge initialization
+[17:14:59] [Server thread/INFO] [FML/]: Config directory created successfully
+[17:14:59] [Server thread/INFO] [FML/]: Searching C:\Users\TheVovk0\Documents\GitHub\Server\mods for mods
+[17:14:59] [Server thread/INFO] [FML/]: Forge Mod Loader has identified 3 mods to load
+[17:14:59] [Server thread/INFO] [FML/FML]: Attempting connection with missing mods [mcp, FML, Forge] at CLIENT
+[17:14:59] [Server thread/INFO] [FML/FML]: Attempting connection with missing mods [mcp, FML, Forge] at SERVER
+[17:15:00] [Server thread/INFO] [FML/]: Processing ObjectHolder annotations
+[17:15:00] [Server thread/INFO] [FML/]: Found 341 ObjectHolder annotations
+[17:15:00] [Server thread/INFO] [FML/Forge]: Configured a dormant chunk cache size of 0
+[17:15:00] [Server thread/INFO] [FML/]: Applying holder lookups
+[17:15:00] [Server thread/INFO] [FML/]: Holder lookups applied
+[17:15:00] [Server thread/INFO] [Minecraft/]: This server is running Cauldron-MCPC-Plus version git-Cauldron-MCPC-Plus-1.7.10-1.1236.06.212 (MC: 1.7.10) (Implementing API version 1.7.10-R0.1-SNAPSHOT)
+[17:15:00] [Server thread/INFO] [Minecraft/]: Using 4 threads for Netty based IO
+[17:15:00] [Server thread/INFO] [/]: Server Ping Player Sample Count: 12
+[17:15:01] [Server thread/INFO] [FML/]: Forge Mod Loader has successfully loaded 3 mods
+[17:15:01] [Server thread/INFO] [FML/]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@1248589c)
+[17:15:01] [Server thread/INFO] [FML/]: Loading dimension 1 (DIM1) (net.minecraft.server.dedicated.DedicatedServer@1248589c)
+[17:15:01] [Server thread/INFO] [FML/]: Loading dimension -1 (DIM-1) (net.minecraft.server.dedicated.DedicatedServer@1248589c)
+[17:18:06] [Server thread/INFO] [/]: CONSOLE: Stopping the server..
+[17:18:07] [Server thread/INFO] [FML/]: Unloading dimension 0
+[17:18:07] [Server thread/INFO] [FML/]: Unloading dimension -1
+[17:18:07] [Server thread/INFO] [FML/]: Unloading dimension 1
+[17:18:07] [Server thread/INFO] [FML/]: Applying holder lookups
+[17:18:07] [Server thread/INFO] [FML/]: Holder lookups applied
