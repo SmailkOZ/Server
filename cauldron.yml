@@ -99,3 +99,11 @@ world-environment-settings:
     keep-world-loaded: true
   the_end:
     keep-world-loaded: false
+  storage:
+    keep-world-loaded: false
+  outer:
+    keep-world-loaded: false
+  bedrock:
+    keep-world-loaded: false
+  twilightforest:
+    keep-world-loaded: false

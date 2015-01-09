@@ -1,13 +1,21 @@
 uuid: f596a23d-c4a2-4d3d-94aa-7dbc6c791af5
 timestamps:
-  login: 1420728917034
+  login: 1420818326143
+  logout: 1420818597811
 ipAddress: 127.0.0.1
 lastlocation:
   world: world
-  x: -191.1240640191416
-  y: 63.0
-  z: 112.20734536336182
-  yaw: 229.6507
-  pitch: 14.250002
-godmode: true
+  x: -201.03719352317887
+  y: 64.0
+  z: 75.68337158652766
+  yaw: 17.39801
+  pitch: 54.600002
+godmode: false
 afk: false
+logoutlocation:
+  world: world
+  x: -210.20431282225087
+  y: 70.0
+  z: 70.68708566822392
+  yaw: 204.75
+  pitch: 16.699997

@@ -1,320 +1,127 @@
-[17:54:55] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLServerTweaker
-[17:54:55] [main/INFO]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLServerTweaker
-[17:54:55] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLServerTweaker
-[17:54:55] [main/INFO]: Forge Mod Loader version 7.10.85.1240 for Minecraft 1.7.10 loading
-[17:54:56] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_25, running on Windows 8.1:amd64:6.3, installed at C:\Program Files\Java\jre1.8.0_25
-[17:54:56] [main/INFO]: Loading tweaker net.minecraftforge.lex.legacyjavafixer.LegacyJavaFixer from LegacyJavaFixer-1.0.jar
-[17:54:56] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
-[17:54:56] [main/INFO]: Loading tweak class name net.minecraftforge.lex.legacyjavafixer.LegacyJavaFixer
-[17:54:56] [main/INFO]: [LegacyJavaFixer] Tweaker: cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker@43bc63a3
-[17:54:56] [main/INFO]: [LegacyJavaFixer] Replacing tweaker cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker@43bc63a3 with net.minecraftforge.lex.legacyjavafixer.LegacyJavaFixer$SortReplacement@702657cc
-[17:54:56] [main/INFO]: [LegacyJavaFixer] Tweaker: FMLCorePlugin {[]}
-[17:54:56] [main/INFO]: [LegacyJavaFixer] Tweaker: FMLForgePlugin {[]}
-[17:54:56] [main/INFO]: [LegacyJavaFixer] Tweaker: cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker@43bc63a3
-[17:54:56] [main/INFO]: [LegacyJavaFixer] Replacing tweaker cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker@43bc63a3 with net.minecraftforge.lex.legacyjavafixer.LegacyJavaFixer$SortReplacement@702657cc
-[17:54:56] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
-[17:54:56] [main/INFO]: Calling tweak class net.minecraftforge.lex.legacyjavafixer.LegacyJavaFixer$SortReplacement
-[17:54:56] [main/INFO]: [LegacyJavaFixer] Replacing sort
-[17:54:56] [main/INFO]: [LegacyJavaFixer] Detected TerminalTweaker
-[17:54:56] [main/INFO]: Calling tweak class net.minecraftforge.lex.legacyjavafixer.LegacyJavaFixer$SortReplacement
-[17:54:56] [main/INFO]: Calling tweak class net.minecraftforge.lex.legacyjavafixer.LegacyJavaFixer
-[17:54:56] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
-[17:54:57] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
-[17:54:57] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
-[17:54:57] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.TerminalTweaker
-[17:54:57] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.TerminalTweaker
-[17:54:58] [main/INFO]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[17:55:02] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[17:55:02] [Server thread/INFO]: Attempting early MinecraftForge initialization
-[17:55:02] [Server thread/INFO]: MinecraftForge v10.13.2.1240 Initialized
-[17:55:02] [Server thread/INFO]: Replaced 182 ore recipies
-[17:55:02] [Server thread/INFO]: Completed early MinecraftForge initialization
-[17:55:02] [Server thread/INFO]: Searching C:\Users\TheVovk0\Documents\GitHub\Server\mods for mods
-[17:55:03] [Server thread/INFO]: Forge Mod Loader has identified 3 mods to load
-[17:55:03] [Server thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge] at CLIENT
-[17:55:03] [Server thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge] at SERVER
-[17:55:03] [Server thread/INFO]: Processing ObjectHolder annotations
-[17:55:03] [Server thread/INFO]: Found 341 ObjectHolder annotations
-[17:55:03] [Server thread/INFO]: Configured a dormant chunk cache size of 0
-[17:55:03] [Server thread/INFO]: Applying holder lookups
-[17:55:03] [Server thread/INFO]: Holder lookups applied
-[17:55:03] [Server thread/INFO]: Loading properties
-[17:55:03] [Server thread/INFO]: Default game type: SURVIVAL
-[17:55:04] [Server thread/INFO]: This server is running Cauldron-MCPC-Plus version git-Cauldron-MCPC-Plus-1.7.10-1.1236.06.212 (MC: 1.7.10) (Implementing API version 1.7.10-R0.1-SNAPSHOT)
-[17:55:04] [Server thread/INFO]: Using 4 threads for Netty based IO
-[17:55:04] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[17:55:04] [Server thread/INFO]: Generating keypair
-[17:55:04] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:55:04] [Server thread/INFO]: Forge Mod Loader has successfully loaded 3 mods
-[17:55:04] [Server thread/INFO]: Preparing level "world"
-[17:55:04] [Server thread/INFO]: Registered command debug with permission node vanilla.command.debug
-[17:55:04] [Server thread/INFO]: Registered command spreadplayers with permission node vanilla.command.spreadplayers
-[17:55:04] [Server thread/INFO]: Registered command playsound with permission node vanilla.command.playsound
-[17:55:04] [Server thread/INFO]: Registered command scoreboard with permission node vanilla.command.scoreboard
-[17:55:04] [Server thread/INFO]: Registered command achievement with permission node vanilla.command.achievement
-[17:55:04] [Server thread/INFO]: Registered command summon with permission node vanilla.command.summon
-[17:55:04] [Server thread/INFO]: Registered command setblock with permission node vanilla.command.setblock
-[17:55:04] [Server thread/INFO]: Registered command testforblock with permission node vanilla.command.testforblock
-[17:55:04] [Server thread/INFO]: Registered command tellraw with permission node vanilla.command.tellraw
-[17:55:04] [Server thread/INFO]: Registered command netstat with permission node vanilla.command.netstat
-[17:55:04] [Server thread/INFO]: Injecting existing block and item data into this server instance
-[17:55:04] [Server thread/INFO]: Applying holder lookups
-[17:55:04] [Server thread/INFO]: Holder lookups applied
-[17:55:05] [Server thread/INFO]: Mapping loaded 11 packages, 7841 classes, 26711 fields, 53884 methods, flags 1ffa
-[17:55:05] [Server thread/INFO]: Loaded inheritance map of 895 classes
-[17:55:06] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.22.6
-[17:55:06] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.0;3342-78f975b9
-[17:55:06] [Server thread/INFO]: [Essentials] Loading Essentials v2.13.1
-[17:55:06] [Server thread/INFO]: [MyHome] Loading MyHome v2.3.1
-[17:55:06] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.13.1
-[17:55:06] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.0.0-beta-03.1514-
-[17:55:06] [Server thread/INFO]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@54d7dfcb)
-[17:55:06] [Server thread/INFO]: Loading dimension 1 (DIM1) (net.minecraft.server.dedicated.DedicatedServer@54d7dfcb)
-[17:55:06] [Server thread/INFO]: Loading dimension -1 (DIM-1) (net.minecraft.server.dedicated.DedicatedServer@54d7dfcb)
-[17:55:06] [Server thread/INFO]: Preparing start region for level 0
-[17:55:07] [Server thread/INFO]: Preparing spawn area: 23%
-[17:55:08] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.22.6
-[17:55:08] [Server thread/INFO]: [PermissionsEx] Initializing file backend
-[17:55:08] [Server thread/ERROR]: [PermissionsEx] 
-========== UNABLE TO LOAD PERMISSIONS BACKEND =========
-Your configuration must be fixed before PEX will enable
-Details: Error loading permissions file!
-=======================================================
-ru.tehkode.permissions.exceptions.PermissionBackendException: Error loading permissions file!
-	at ru.tehkode.permissions.backends.file.FileBackend.reload(FileBackend.java:321) ~[PermissionsEx.jar:?]
-	at ru.tehkode.permissions.backends.file.FileBackend.<init>(FileBackend.java:120) ~[PermissionsEx.jar:?]
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_25]
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_25]
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_25]
-	at java.lang.reflect.Constructor.newInstance(Unknown Source) ~[?:1.8.0_25]
-	at ru.tehkode.permissions.backends.PermissionBackend.getBackend(PermissionBackend.java:392) ~[PermissionsEx.jar:?]
-	at ru.tehkode.permissions.backends.PermissionBackend.getBackend(PermissionBackend.java:367) ~[PermissionsEx.jar:?]
-	at ru.tehkode.permissions.PermissionManager.createBackend(PermissionManager.java:624) ~[PermissionsEx.jar:?]
-	at ru.tehkode.permissions.PermissionManager.setBackend(PermissionManager.java:606) ~[PermissionsEx.jar:?]
-	at ru.tehkode.permissions.PermissionManager.initBackend(PermissionManager.java:693) ~[PermissionsEx.jar:?]
-	at ru.tehkode.permissions.PermissionManager.<init>(PermissionManager.java:67) ~[PermissionsEx.jar:?]
-	at ru.tehkode.permissions.bukkit.PermissionsEx.onEnable(PermissionsEx.java:164) [PermissionsEx.jar:?]
-	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:316) [JavaPlugin.class:git-Cauldron-MCPC-Plus-1.7.10-1.1236.06.212]
-	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:368) [JavaPluginLoader.class:git-Cauldron-MCPC-Plus-1.7.10-1.1236.06.212]
-	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:410) [SimplePluginManager.class:git-Cauldron-MCPC-Plus-1.7.10-1.1236.06.212]
-	at org.bukkit.craftbukkit.v1_7_R4.CraftServer.loadPlugin(CraftServer.java:415) [CraftServer.class:git-Cauldron-MCPC-Plus-1.7.10-1.1236.06.212]
-	at org.bukkit.craftbukkit.v1_7_R4.CraftServer.enablePlugins(CraftServer.java:349) [CraftServer.class:git-Cauldron-MCPC-Plus-1.7.10-1.1236.06.212]
-	at net.minecraft.server.MinecraftServer.func_71243_i(MinecraftServer.java:500) [MinecraftServer.class:?]
-	at net.minecraft.server.MinecraftServer.func_71222_d(MinecraftServer.java:474) [MinecraftServer.class:?]
-	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:434) [MinecraftServer.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:329) [lt.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:620) [MinecraftServer.class:?]
-	at java.lang.Thread.run(Unknown Source) [?:1.8.0_25]
-Caused by: org.bukkit.configuration.InvalidConfigurationException: while scanning a simple key
- in "<string>", line 5, column 8:
-           — modifyworld.*
-           ^
-could not found expected ':'
- in "<string>", line 6, column 4:
-       Admins: 
-       ^
-
-	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:57) ~[YamlConfiguration.class:git-Cauldron-MCPC-Plus-1.7.10-1.1236.06.212]
-	at ru.tehkode.permissions.backends.file.FileConfig.loadFromString(FileConfig.java:68) ~[PermissionsEx.jar:?]
-	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:226) ~[FileConfiguration.class:git-Cauldron-MCPC-Plus-1.7.10-1.1236.06.212]
-	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:169) ~[FileConfiguration.class:git-Cauldron-MCPC-Plus-1.7.10-1.1236.06.212]
-	at ru.tehkode.permissions.backends.file.FileConfig.load(FileConfig.java:38) ~[PermissionsEx.jar:?]
-	at ru.tehkode.permissions.backends.file.FileBackend.reload(FileBackend.java:309) ~[PermissionsEx.jar:?]
-	... 23 more
-Caused by: org.yaml.snakeyaml.scanner.ScannerException: while scanning a simple key; could not found expected ':'
-	at org.yaml.snakeyaml.scanner.ScannerImpl.stalePossibleSimpleKeys(ScannerImpl.java:398) ~[ScannerImpl.class:?]
-	at org.yaml.snakeyaml.scanner.ScannerImpl.needMoreTokens(ScannerImpl.java:229) ~[ScannerImpl.class:?]
-	at org.yaml.snakeyaml.scanner.ScannerImpl.checkToken(ScannerImpl.java:178) ~[ScannerImpl.class:?]
-	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingValue.produce(ParserImpl.java:591) ~[ParserImpl$ParseBlockMappingValue.class:?]
-	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:161) ~[ParserImpl.class:?]
-	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:146) ~[ParserImpl.class:?]
-	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:133) ~[Composer.class:?]
-	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:237) ~[Composer.class:?]
-	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:160) ~[Composer.class:?]
-	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:237) ~[Composer.class:?]
-	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:160) ~[Composer.class:?]
-	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:237) ~[Composer.class:?]
-	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:160) ~[Composer.class:?]
-	at org.yaml.snakeyaml.composer.Composer.composeDocument(Composer.java:123) ~[Composer.class:?]
-	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:106) ~[Composer.class:?]
-	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:121) ~[BaseConstructor.class:?]
-	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:480) ~[Yaml.class:?]
-	at org.yaml.snakeyaml.Yaml.load(Yaml.java:399) ~[Yaml.class:?]
-	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:55) ~[YamlConfiguration.class:git-Cauldron-MCPC-Plus-1.7.10-1.1236.06.212]
-	at ru.tehkode.permissions.backends.file.FileConfig.loadFromString(FileConfig.java:68) ~[PermissionsEx.jar:?]
-	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:226) ~[FileConfiguration.class:git-Cauldron-MCPC-Plus-1.7.10-1.1236.06.212]
-	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:169) ~[FileConfiguration.class:git-Cauldron-MCPC-Plus-1.7.10-1.1236.06.212]
-	at ru.tehkode.permissions.backends.file.FileConfig.load(FileConfig.java:38) ~[PermissionsEx.jar:?]
-	at ru.tehkode.permissions.backends.file.FileBackend.reload(FileBackend.java:309) ~[PermissionsEx.jar:?]
-	... 23 more
-[17:55:08] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.22.6
-[17:55:08] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.0;3342-78f975b9
-[17:55:09] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[17:55:09] [Server thread/WARN]: [WorldEdit] 
-**********************************************
-** This WorldEdit version does not fully support your version of Bukkit.
-**
-** When working with blocks or undoing, chests will be empty, signs
-** will be blank, and so on. There will be no support for entity
-** and biome-related functions.
-**
-** Please see http://wiki.sk89q.com/wiki/WorldEdit/Bukkit_adapters
-**********************************************
-
-[17:55:09] [Server thread/INFO]: [Essentials] Enabling Essentials v2.13.1
-[17:55:09] [Server thread/INFO]: Версия Bukkit-ядра изменена. Версия не проверяется.
-[17:55:09] [Server thread/INFO]: git-Cauldron-MCPC-Plus-1.7.10-1.1236.06.212 (MC: 1.7.10)
-[17:55:09] [Server thread/INFO]: 1.7.10-R0.1-SNAPSHOT
-[17:55:10] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
-[17:55:10] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
-[17:55:10] [Server thread/INFO]: [MyHome] Enabling MyHome v2.3.1
-[17:55:10] [Server thread/INFO]: [MyHome] Creating Database...
-[17:55:10] [Server thread/INFO]: [MyHome] 0 homes loaded
-[17:55:10] [Server thread/INFO]: [MyHome] Using localization: English (en)
-[17:55:10] [Server thread/INFO]: [MyHome] Access Control: Using Bukkit's Permssion System (Vault is recommended!)
-[17:55:10] [Server thread/INFO]: [MyHome] MyHome 2.3.1 enabled
-[17:55:10] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.13.1
-[17:55:10] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.0.0-beta-03.1514-
-[17:55:11] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
-[17:55:11] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
-[17:55:11] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
-[17:55:11] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
-[17:55:11] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
-[17:55:11] [Server thread/INFO]: [WorldGuard] (DIM1) TNT ignition is PERMITTED.
-[17:55:11] [Server thread/INFO]: [WorldGuard] (DIM1) Lighters are PERMITTED.
-[17:55:11] [Server thread/INFO]: [WorldGuard] (DIM1) Lava fire is blocked.
-[17:55:11] [Server thread/INFO]: [WorldGuard] (DIM1) Fire spread is UNRESTRICTED.
-[17:55:11] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'DIM1'
-[17:55:11] [Server thread/INFO]: [WorldGuard] (DIM-1) TNT ignition is PERMITTED.
-[17:55:11] [Server thread/INFO]: [WorldGuard] (DIM-1) Lighters are PERMITTED.
-[17:55:11] [Server thread/INFO]: [WorldGuard] (DIM-1) Lava fire is blocked.
-[17:55:11] [Server thread/INFO]: [WorldGuard] (DIM-1) Fire spread is UNRESTRICTED.
-[17:55:11] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'DIM-1'
-[17:55:11] [Server thread/INFO]: [WorldGuard] Loading region data...
-[17:55:11] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[17:55:11] [Server thread/INFO]: Done (6,894s)! For help, type "help" or "?"
-[17:55:11] [Server thread/INFO]: Registered command forge with permission node net.minecraftforge.server.command.ForgeCommand
-[17:55:16] [User Authenticator #1/INFO]: UUID of player Cufee is f596a23d-c4a2-4d3d-94aa-7dbc6c791af5
-[17:55:16] [Netty IO #0/INFO]: Client protocol version 1
-[17:55:16] [Netty IO #0/INFO]: Client attempting to join with 3 mods : FML@7.10.85.1277,Forge@10.13.2.1277,mcp@9.05
-[17:55:16] [Netty IO #0/INFO]: Attempting connection with missing mods [] at CLIENT
-[17:55:16] [Server thread/INFO]: [Server thread] Server side modded connection established
-[17:55:16] [Server thread/INFO]: Cufee[/127.0.0.1:58314] logged in with entity id 113 at ([world] -202.53783500693737, 66.0, 88.47203683505282)
-[17:55:24] [Server thread/INFO]: Cufee issued server command: /gm
-[17:55:24] [Server thread/INFO]: §cCufee §4отказано в доступе к команде.
-[17:55:28] [Server thread/INFO]: Cufee issued server command: /pex
-[17:55:33] [Server thread/INFO]: CONSOLE issued server command: /gm 
-[17:55:33] [Server thread/INFO]: Change player gamemode.
-[17:55:33] [Server thread/INFO]: /gm <survival|creative|adventure> [player]
-[17:55:38] [Server thread/INFO]: CONSOLE issued server command: /gm 1 cufee
-[17:55:38] [Server thread/INFO]: Режим игры творческий установлен для Cufee.
-[17:56:01] [Server thread/INFO]: Cufee issued server command: /butcher
-[17:56:10] [Server thread/INFO]: Killed 50 mobs.
-[17:57:35] [Server thread/INFO]: CONSOLE issued server command: /help 
-[17:57:35] [Server thread/INFO]: Для просмотра помощи из консоли введите ?.
-[17:57:41] [Server thread/INFO]: Cufee issued server command: /pex
-[17:57:43] [Server thread/INFO]: Cufee issued server command: /help
-[17:57:48] [Server thread/INFO]: Cufee issued server command: /sethome
-[17:57:53] [Server thread/INFO]: Cufee issued server command: /sethome 1
-[17:57:58] [Server thread/INFO]: Cufee issued server command: /sethome home
-[17:58:05] [Server thread/INFO]: Cufee issued server command: /help 2
-[17:58:20] [Server thread/INFO]: Cufee issued server command: /helpop
-[17:58:24] [Server thread/INFO]: CONSOLE: Opped cufee
-[17:58:27] [Server thread/INFO]: Cufee issued server command: /gnm
-[17:58:29] [Server thread/INFO]: Cufee issued server command: /gm
-[17:58:31] [Server thread/INFO]: Cufee issued server command: /gm 0
-[17:58:37] [Server thread/INFO]: Cufee issued server command: /god
-[17:58:40] [Server thread/INFO]: Cufee issued server command: /fly
-[17:58:57] [Server thread/INFO]: Cufee issued server command: /break
-[17:59:00] [Server thread/INFO]: Cufee issued server command: /break
-[17:59:02] [Server thread/INFO]: Cufee issued server command: /break
-[17:59:53] [Server thread/INFO]: Cufee issued server command: /remove
-[17:59:58] [Server thread/INFO]: Cufee issued server command: /clear
-[18:00:12] [Server thread/INFO]: Cufee issued server command: /pex
-[18:00:15] [Server thread/INFO]: Cufee issued server command: /pex reload
-[18:01:41] [Server thread/INFO]: Cufee issued server command: /ешьу вфн
-[18:01:46] [Server thread/INFO]: Cufee issued server command: /time
-[18:01:48] [Server thread/INFO]: Cufee issued server command: /time day
-[18:01:58] [Server thread/INFO]: Cufee issued server command: /time day
-[18:02:02] [Server thread/INFO]: Cufee issued server command: /time
-[18:02:05] [Server thread/INFO]: Cufee issued server command: /time 100
-[18:02:15] [Server thread/INFO]: Cufee issued server command: /time 100ticks
-[18:02:19] [Server thread/INFO]: Cufee issued server command: /time 1000ticks
-[18:15:59] [Server thread/INFO]: CONSOLE issued server command: /ess 
-[18:15:59] [Server thread/INFO]: /<command> <reload/debug>
-[18:15:59] [Server thread/INFO]: Essentials передает управление командами другому плагину:
-[18:15:59] [Server thread/INFO]: sethome => MyHome:myhome:sethome
-[18:16:04] [Server thread/INFO]: CONSOLE issued server command: /ess reload
-[18:16:04] [Server thread/ERROR]: The file C:\Users\TheVovk0\Documents\GitHub\Server\plugins\Essentials\config.yml is broken, it has been renamed to C:\Users\TheVovk0\Documents\GitHub\Server\plugins\Essentials\config.yml.broken.1420730164136
-org.yaml.snakeyaml.scanner.ScannerException: while scanning a simple key; could not found expected ':'
-	at org.yaml.snakeyaml.scanner.ScannerImpl.stalePossibleSimpleKeys(ScannerImpl.java:398) ~[ScannerImpl.class:?]
-	at org.yaml.snakeyaml.scanner.ScannerImpl.needMoreTokens(ScannerImpl.java:229) ~[ScannerImpl.class:?]
-	at org.yaml.snakeyaml.scanner.ScannerImpl.checkToken(ScannerImpl.java:178) ~[ScannerImpl.class:?]
-	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingKey.produce(ParserImpl.java:563) ~[ParserImpl$ParseBlockMappingKey.class:?]
-	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:161) ~[ParserImpl.class:?]
-	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:146) ~[ParserImpl.class:?]
-	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:230) ~[Composer.class:?]
-	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:160) ~[Composer.class:?]
-	at org.yaml.snakeyaml.composer.Composer.composeDocument(Composer.java:123) ~[Composer.class:?]
-	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:106) ~[Composer.class:?]
-	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:121) ~[BaseConstructor.class:?]
-	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:480) ~[Yaml.class:?]
-	at org.yaml.snakeyaml.Yaml.load(Yaml.java:399) ~[Yaml.class:?]
-	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:55) ~[YamlConfiguration.class:git-Cauldron-MCPC-Plus-1.7.10-1.1236.06.212]
-	at com.earth2me.essentials.EssentialsConf.load(EssentialsConf.java:164) [Essentials.jar:?]
-	at com.earth2me.essentials.Settings.reloadConfig(Settings.java:500) [Essentials.jar:?]
-	at com.earth2me.essentials.Essentials.reload(Essentials.java:338) [Essentials.jar:?]
-	at com.earth2me.essentials.commands.Commandessentials.run_reload(Commandessentials.java:106) [Essentials.jar:?]
-	at com.earth2me.essentials.commands.Commandessentials.run(Commandessentials.java:62) [Essentials.jar:?]
-	at com.earth2me.essentials.commands.EssentialsCommand.run(EssentialsCommand.java:161) [Essentials.jar:?]
-	at com.earth2me.essentials.Essentials.onCommandEssentials(Essentials.java:501) [Essentials.jar:?]
-	at com.earth2me.essentials.Essentials.onCommand(Essentials.java:380) [Essentials.jar:?]
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) [PluginCommand.class:git-Cauldron-MCPC-Plus-1.7.10-1.1236.06.212]
-	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:181) [SimpleCommandMap.class:git-Cauldron-MCPC-Plus-1.7.10-1.1236.06.212]
-	at org.bukkit.craftbukkit.v1_7_R4.CraftServer.dispatchCommand(CraftServer.java:717) [CraftServer.class:git-Cauldron-MCPC-Plus-1.7.10-1.1236.06.212]
-	at org.bukkit.craftbukkit.v1_7_R4.CraftServer.dispatchServerCommand(CraftServer.java:697) [CraftServer.class:git-Cauldron-MCPC-Plus-1.7.10-1.1236.06.212]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71333_ah(DedicatedServer.java:465) [lt.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:424) [lt.class:?]
-	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:798) [MinecraftServer.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:658) [MinecraftServer.class:?]
-	at java.lang.Thread.run(Unknown Source) [?:1.8.0_25]
-[18:16:04] [Server thread/INFO]: Essentials версии 2.13.1 перезагружен. Перевод от Dereku.
-[18:16:08] [Server thread/INFO]: Cufee issued server command: /ess
-[18:16:17] [Netty IO #0/INFO]: <Cufee> sethome
-[18:16:20] [Server thread/INFO]: Cufee issued server command: /sethome
-[18:16:29] [Server thread/INFO]: Cufee issued server command: /home del
-[18:17:07] [Server thread/INFO]: Cufee issued server command: /punch
-[18:17:10] [Server thread/INFO]: Cufee issued server command: /kick
-[18:17:12] [Server thread/INFO]: Cufee issued server command: /ess
-[18:17:20] [Server thread/INFO]: Cufee issued server command: /ess help
-[18:17:20] [Server thread/INFO]: Создаю файл конфигурации из шаблона: C:\Users\TheVovk0\Documents\GitHub\Server\plugins\Essentials\config.yml
-[18:17:35] [Server thread/INFO]: Cufee issued server command: /time day
-[18:17:40] [Server thread/INFO]: Cufee issued server command: /butcher
-[18:18:15] [Server thread/INFO]: Cufee issued server command: /myhome
-[18:18:18] [Server thread/INFO]: Cufee issued server command: /myhome reload
-[18:18:21] [Server thread/INFO]: Cufee issued server command: /myhome reload
-[18:18:23] [Server thread/INFO]: Cufee issued server command: /myhome
-[18:18:25] [Server thread/INFO]: Cufee issued server command: /sethome
-[18:19:25] [Server thread/INFO]: Cufee issued server command: /myhome reload
-[18:19:36] [Server thread/INFO]: Cufee issued server command: //outset
-[18:20:21] [Server thread/INFO]: CONSOLE: Stopping the server..
-[18:20:21] [Server thread/INFO]: Stopping server
-[18:20:21] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.0.0-beta-03.1514-
-[18:20:21] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
-[18:20:21] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.13.1
-[18:20:21] [Server thread/INFO]: [MyHome] Disabling MyHome v2.3.1
-[18:20:21] [Server thread/INFO]: [MyHome] MyHome 2.3.1 disabled
-[18:20:21] [Server thread/INFO]: [Essentials] Disabling Essentials v2.13.1
-[18:20:21] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.0;3342-78f975b9
-[18:20:21] [Server thread/INFO]: Saving players
-[18:20:21] [Server thread/INFO]: Cufee lost connection: Server closed
-[18:20:21] [Server thread/INFO]: Cufee left the game.
-[18:20:21] [Server thread/INFO]: Saving worlds
-[18:20:21] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[18:20:22] [Server thread/INFO]: Saving chunks for level 'DIM1'/The End
-[18:20:22] [Server thread/INFO]: Saving chunks for level 'DIM-1'/Nether
-[18:20:22] [Server thread/INFO]: Unloading dimension 0
-[18:20:22] [Server thread/INFO]: Unloading dimension -1
-[18:20:22] [Server thread/INFO]: Unloading dimension 1
-[18:20:22] [Server thread/INFO]: Applying holder lookups
-[18:20:22] [Server thread/INFO]: Holder lookups applied
+[18:50:10] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLServerTweaker
+[18:50:10] [main/INFO]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLServerTweaker
+[18:50:10] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLServerTweaker
+[18:50:10] [main/INFO]: Forge Mod Loader version 7.10.85.1240 for Minecraft 1.7.10 loading
+[18:50:11] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_25, running on Windows 8.1:amd64:6.3, installed at C:\Program Files\Java\jre1.8.0_25
+[18:50:11] [main/INFO]: [AppEng] Core Init
+[18:50:12] [main/INFO]: [codechicken.core.launch.DepLoader$DepLoadInst:download:342]: Download complete
+[18:50:15] [main/INFO]: Loading tweaker net.minecraftforge.lex.legacyjavafixer.LegacyJavaFixer from LegacyJavaFixer-1.0.jar
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: java.lang.NoClassDefFoundError: net/minecraftforge/fml/relauncher/IFMLLoadingPlugin
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.ClassLoader.defineClass1(Native Method)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.ClassLoader.defineClass(Unknown Source)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.security.SecureClassLoader.defineClass(Unknown Source)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.net.URLClassLoader.defineClass(Unknown Source)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.net.URLClassLoader.access$100(Unknown Source)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.net.URLClassLoader$1.run(Unknown Source)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.net.URLClassLoader$1.run(Unknown Source)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.security.AccessController.doPrivileged(Native Method)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.net.URLClassLoader.findClass(Unknown Source)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:117)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.Class.forName0(Native Method)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.Class.forName(Unknown Source)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.relauncher.CoreModManager.loadCoreMod(CoreModManager.java:430)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.relauncher.CoreModManager.discoverCoreMods(CoreModManager.java:359)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.relauncher.CoreModManager.handleLaunch(CoreModManager.java:217)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.relauncher.FMLLaunchHandler.setupHome(FMLLaunchHandler.java:90)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.relauncher.FMLLaunchHandler.setupServer(FMLLaunchHandler.java:74)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.relauncher.FMLLaunchHandler.configureForServerLaunch(FMLLaunchHandler.java:39)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.common.launcher.FMLServerTweaker.injectIntoClassLoader(FMLServerTweaker.java:23)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:115)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.relauncher.ServerLaunchWrapper.run(ServerLaunchWrapper.java:43)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.relauncher.ServerLaunchWrapper.main(ServerLaunchWrapper.java:12)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: Caused by: java.lang.ClassNotFoundException: net.minecraftforge.fml.relauncher.IFMLLoadingPlugin
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	... 29 more
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: Caused by: java.lang.NullPointerException
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:182)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	... 31 more
+[18:50:15] [main/ERROR]: An error occurred trying to configure the minecraft home at C:\Users\TheVovk0\Documents\GitHub\Server\. for Forge Mod Loader
+java.lang.NoClassDefFoundError: net/minecraftforge/fml/relauncher/IFMLLoadingPlugin
+	at java.lang.ClassLoader.defineClass1(Native Method) ~[?:1.8.0_25]
+	at java.lang.ClassLoader.defineClass(Unknown Source) ~[?:1.8.0_25]
+	at java.security.SecureClassLoader.defineClass(Unknown Source) ~[?:1.8.0_25]
+	at java.net.URLClassLoader.defineClass(Unknown Source) ~[?:1.8.0_25]
+	at java.net.URLClassLoader.access$100(Unknown Source) ~[?:1.8.0_25]
+	at java.net.URLClassLoader$1.run(Unknown Source) ~[?:1.8.0_25]
+	at java.net.URLClassLoader$1.run(Unknown Source) ~[?:1.8.0_25]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_25]
+	at java.net.URLClassLoader.findClass(Unknown Source) ~[?:1.8.0_25]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:117) ~[launchwrapper-1.11.jar:?]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_25]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_25]
+	at java.lang.Class.forName0(Native Method) ~[?:1.8.0_25]
+	at java.lang.Class.forName(Unknown Source) ~[?:1.8.0_25]
+	at cpw.mods.fml.relauncher.CoreModManager.loadCoreMod(CoreModManager.java:430) ~[cauldron-1.7.10-1.1240.06.213-server.jar:git-Cauldron-MCPC-Plus-1.7.10-1.1240.06.213]
+	at cpw.mods.fml.relauncher.CoreModManager.discoverCoreMods(CoreModManager.java:359) ~[cauldron-1.7.10-1.1240.06.213-server.jar:git-Cauldron-MCPC-Plus-1.7.10-1.1240.06.213]
+	at cpw.mods.fml.relauncher.CoreModManager.handleLaunch(CoreModManager.java:217) ~[cauldron-1.7.10-1.1240.06.213-server.jar:git-Cauldron-MCPC-Plus-1.7.10-1.1240.06.213]
+	at cpw.mods.fml.relauncher.FMLLaunchHandler.setupHome(FMLLaunchHandler.java:90) [cauldron-1.7.10-1.1240.06.213-server.jar:git-Cauldron-MCPC-Plus-1.7.10-1.1240.06.213]
+	at cpw.mods.fml.relauncher.FMLLaunchHandler.setupServer(FMLLaunchHandler.java:74) [cauldron-1.7.10-1.1240.06.213-server.jar:git-Cauldron-MCPC-Plus-1.7.10-1.1240.06.213]
+	at cpw.mods.fml.relauncher.FMLLaunchHandler.configureForServerLaunch(FMLLaunchHandler.java:39) [cauldron-1.7.10-1.1240.06.213-server.jar:git-Cauldron-MCPC-Plus-1.7.10-1.1240.06.213]
+	at cpw.mods.fml.common.launcher.FMLServerTweaker.injectIntoClassLoader(FMLServerTweaker.java:23) [cauldron-1.7.10-1.1240.06.213-server.jar:git-Cauldron-MCPC-Plus-1.7.10-1.1240.06.213]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:115) [launchwrapper-1.11.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.11.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_25]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_25]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_25]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_25]
+	at cpw.mods.fml.relauncher.ServerLaunchWrapper.run(ServerLaunchWrapper.java:43) [cauldron-1.7.10-1.1240.06.213-server.jar:git-Cauldron-MCPC-Plus-1.7.10-1.1240.06.213]
+	at cpw.mods.fml.relauncher.ServerLaunchWrapper.main(ServerLaunchWrapper.java:12) [cauldron-1.7.10-1.1240.06.213-server.jar:git-Cauldron-MCPC-Plus-1.7.10-1.1240.06.213]
+Caused by: java.lang.ClassNotFoundException: net.minecraftforge.fml.relauncher.IFMLLoadingPlugin
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191) ~[launchwrapper-1.11.jar:?]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_25]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_25]
+	... 29 more
+Caused by: java.lang.NullPointerException
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:182) ~[launchwrapper-1.11.jar:?]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_25]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_25]
+	... 29 more
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: java.lang.reflect.InvocationTargetException
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.relauncher.ServerLaunchWrapper.run(ServerLaunchWrapper.java:43)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.relauncher.ServerLaunchWrapper.main(ServerLaunchWrapper.java:12)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: Caused by: java.lang.NoClassDefFoundError: net/minecraftforge/fml/relauncher/IFMLLoadingPlugin
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.ClassLoader.defineClass1(Native Method)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.ClassLoader.defineClass(Unknown Source)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.security.SecureClassLoader.defineClass(Unknown Source)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.net.URLClassLoader.defineClass(Unknown Source)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.net.URLClassLoader.access$100(Unknown Source)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.net.URLClassLoader$1.run(Unknown Source)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.net.URLClassLoader$1.run(Unknown Source)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.security.AccessController.doPrivileged(Native Method)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.net.URLClassLoader.findClass(Unknown Source)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:117)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.Class.forName0(Native Method)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.Class.forName(Unknown Source)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.relauncher.CoreModManager.loadCoreMod(CoreModManager.java:430)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.relauncher.CoreModManager.discoverCoreMods(CoreModManager.java:359)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.relauncher.CoreModManager.handleLaunch(CoreModManager.java:217)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.relauncher.FMLLaunchHandler.setupHome(FMLLaunchHandler.java:90)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.relauncher.FMLLaunchHandler.setupServer(FMLLaunchHandler.java:74)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.relauncher.FMLLaunchHandler.configureForServerLaunch(FMLLaunchHandler.java:39)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.common.launcher.FMLServerTweaker.injectIntoClassLoader(FMLServerTweaker.java:23)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:115)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	... 6 more
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: Caused by: java.lang.ClassNotFoundException: net.minecraftforge.fml.relauncher.IFMLLoadingPlugin
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	... 29 more
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: Caused by: java.lang.NullPointerException
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:182)
+[18:50:15] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	... 31 more

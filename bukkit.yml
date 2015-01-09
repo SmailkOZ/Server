@@ -61,3 +61,9 @@ world-settings:
     enabled: true
   nether:
     enabled: true
+  twilightforest:
+    enabled: true
+  bedrock:
+    enabled: true
+  outer:
+    enabled: true
