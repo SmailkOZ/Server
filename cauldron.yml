@@ -65,6 +65,15 @@ world-settings:
     flowing-lava-decay: false
     infinite-water-source: true
     entity-despawn-immediate: false
+    worldgen-Mekanism-GenHandler: true
+    worldgen-IC2-IC2: true
+    worldgen-ProjRedExploration-GenerationManager: true
+    worldgen-appliedenergistics2-MeteoriteWorldGen: true
+    worldgen-Thaumcraft-ThaumcraftWorldGenerator: true
+    worldgen-CoFHCore-WorldHandler: true
+    worldgen-Forestry-WorldGenerator: true
+    worldgen-BigReactors-BRWorldGenerator: true
+    worldgen-appliedenergistics2-QuartzWorldGen: true
 plugin-settings:
   default:
     remap-plugin-file: false

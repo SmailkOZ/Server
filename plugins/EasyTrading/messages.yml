@@ -1,0 +1,61 @@
+wrong-usage: "&cНеправильная команда! Попробуй ввести /trade для списка команд"
+
+stop-trade-beacause-disable: '&cОшибка плагина. Обмен прекращен.'
+
+# Allowed placeholders: <player> - Requested player
+no-permission: "&cУ вас нет прав на обмен."
+
+# Allowed placeholders: <player> - Requested player
+player-is-exempt: "&cПредложить обмен этому игроку нельзя."
+
+# Allowed placeholders: <player> - Requested player
+player-is-in-trade: "&cЭтот игрок &6<player> &cуже меняется с кем-то!"
+
+# Allowed placeholders: <player> - Requested player
+already-requested: "&cВы уже поросили &6<player> &cпоменяться предметами!"
+
+# Allowed placeholders: <player> - Requested player
+send-request: "&aВы предложили обмен &6<player>!"
+
+# Allowed placeholders: <player> - The player who has requested
+got-request: "&aВам предлогает обмен &6<player>&a!"
+
+# Allowed placeholders: <target> - Who has not responded
+did-not-respond: "&c<target> не отреагировал на предложение."
+
+console-sender: "Unknown Console command."
+
+command-not-enabled: "&cКоманда отключена."
+
+# Allowed placeholders: <target> - (Command) target player
+player-not-online: "&cИгрок не в сети!"
+
+# Allowed placeholders: <worldname> - World name
+player-in-blacklisted-world: "&cВ этом мире обмен запрещен!"
+
+# Allowed placeholders:  <target> - (Command) target player, <worldname> - World name
+target-in-blacklisted-world: "&c<target> в мире, где обмен запрещен!"
+
+item-is-blacklisted: "&cНельзя это менять!"
+
+trade-with-itself: "&cЛОЛ, с собой нельзя начать обмен=)"
+
+# Allowed placeholders: <amount> - How much added
+sign-add-successfull: "&6добавил <amount>"
+
+# Allowed placeholders: <amount> - How much added
+sign-add-not-enough: "&6Нужно больше золота(Денег)!"
+
+# Allowed placeholders: <amount> - How much removed
+sign-remove-successfull: "&6удалил <amount>"
+
+# Allowed placeholders: <amount> - How much removed
+sign-remove-not-enough: "&6Предложите больше!"
+
+# Allowed placeholders: <input> - Input from player
+sign-wrong-input: '&6Неправельно введено!'
+
+trade-stopped-player: "&cМежду вами все порвато и тропинка затоптата!"
+
+# Allowed placeholders: <player> - The player who stopped
+trade-stopped-target: "&c<player> прекратил обмен."
