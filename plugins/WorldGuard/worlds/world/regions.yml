@@ -10,6 +10,15 @@
 # REMEMBER TO KEEP PERIODICAL BACKUPS.
 #
 regions:
+    spawn:
+        min: {x: -717.0, y: 0.0, z: -419.0}
+        max: {x: 283.0, y: 255.0, z: 581.0}
+        members: {}
+        flags: {use: allow, mob-damage: deny, chest-access: allow, mob-spawning: deny}
+        owners:
+            players: [cufee]
+        type: cuboid
+        priority: 0
     __global__:
         members: {}
         flags: {}

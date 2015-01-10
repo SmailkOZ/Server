@@ -48,18 +48,10 @@
 # REMEMBER: If a line has # in front, it will be ignored.
 #
 
-# Deny lava buckets
-#[lavabucket]
-#ignore-perms=my.own.madeup.permission
-#ignore-groups=admins,mods
-#on-use=deny,tell
-
-# Deny some ore
-#[coalore,goldore,ironore]
-#ignore-groups=admins,mods
-#on-break=notify,deny,log
-
-# Some funky data value tests
-#[wood:0;>=2]
-#ignore-groups=admins,mods
-#on-break=notify,deny,log
+# Глобальные запреты
+[711,389,211,210,4564,4569,4570,4150,4157,202:15,4545,4546,4549,4551,4553,4554,4555,4556,4557,4558,4581,4670,4673,4684,561,503,416,4876,4918,4869,4841,4894,4975,4990,4998,5013,5088,5140,5075,5077,5080,5086,5109,5117,5118,5138,5145,5150,407,495,46,510:3]
+on-use=deny,tell
+on-acquire=deny,tell
+on-interact=deny,tell
+on-break=deny,tell
+on-place=deny,tell

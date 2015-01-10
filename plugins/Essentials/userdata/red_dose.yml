@@ -1,20 +1,20 @@
 uuid: ca0a15ab-6615-42e0-a5e6-ac1b3983eb64
 timestamps:
-  login: 1420832507511
-  lastteleport: 1420830916091
-  logout: 1420831508190
-ipAddress: 192.168.0.104
+  login: 1420899000094
+  lastteleport: 1420835981011
+  logout: 1420894594084
+ipAddress: 192.168.0.100
 lastlocation:
-  world: world
-  x: -203.67717964346988
-  y: 66.0
-  z: 88.65580809532493
-  yaw: -72.90004
-  pitch: 23.700005
+  world: DIM7
+  x: -251.18009015616335
+  y: 79.0
+  z: -241.82499998807893
+  yaw: -125.404785
+  pitch: 34.35
 logoutlocation:
   world: world
-  x: 116.24820955374584
-  y: 71.0
-  z: -41.49315774635521
-  yaw: 179.85124
-  pitch: 61.649998
+  x: 537.1062413481673
+  y: 68.0
+  z: 171.95579541974615
+  yaw: -213.89905
+  pitch: 69.59994

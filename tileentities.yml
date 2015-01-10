@@ -22,16 +22,52 @@ debug:
 config-version: 1
 world-settings:
   default:
+    net-minecraft-tileentity-TileEntityMobSpawner:
+      tick-no-players: false
+      tick-interval: 1
     net-minecraft-tileentity-TileEntityChest:
       tick-no-players: false
       tick-interval: 1
-    net-minecraft-tileentity-TileEntityMobSpawner:
+    twilightforest-tileentity-TileEntityTFFirefly:
+      tick-no-players: false
+      tick-interval: 1
+    net-minecraft-tileentity-TileEntityEnderChest:
       tick-no-players: false
       tick-interval: 1
     thaumcraft-common-tiles-TileNode:
       tick-no-players: false
       tick-interval: 1
+    buildcraft-transport-TileGenericPipe:
+      tick-no-players: false
+      tick-interval: 1
+    twilightforest-tileentity-TileEntityTFCicada:
+      tick-no-players: false
+      tick-interval: 1
+    twilightforest-tileentity-TileEntityTFSmoker:
+      tick-no-players: false
+      tick-interval: 1
+    twilightforest-tileentity-TileEntityTFPoppingJet:
+      tick-no-players: false
+      tick-interval: 1
+    twilightforest-tileentity-TileEntityTFNagaSpawner:
+      tick-no-players: false
+      tick-interval: 1
+    twilightforest-tileentity-TileEntityTFFlameJet:
+      tick-no-players: false
+      tick-interval: 1
+    twilightforest-tileentity-TileEntityTFKnightPhantomsSpawner:
+      tick-no-players: false
+      tick-interval: 1
+    twilightforest-tileentity-TileEntityTFGhastTrapInactive:
+      tick-no-players: false
+      tick-interval: 1
     net-minecraft-tileentity-TileEntityFurnace:
+      tick-no-players: false
+      tick-interval: 1
+    twilightforest-tileentity-TileEntityTFTowerBossSpawner:
+      tick-no-players: false
+      tick-interval: 1
+    twilightforest-tileentity-TileEntityTFReverter:
       tick-no-players: false
       tick-interval: 1
     thaumcraft-common-tiles-TileEldritchAltar:

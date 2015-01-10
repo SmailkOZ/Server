@@ -34,6 +34,20 @@ groups:
     - myhome.home.basic.set
     - myhome.home.soc.invite
     - myhome.home.soc.uninvite
+    - worldedit.selection.pos
+    - worldedit.selection.hpos
+    - worldedit.selection.contract
+    - worldedit.selection.outset
+    - worldedit.selection.expand
+    - worldedit.selection.size
+    - worldedit.wand
+    - RandomLocation.Use
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
 users:
   f596a23d-c4a2-4d3d-94aa-7dbc6c791af5:
     permissions:
